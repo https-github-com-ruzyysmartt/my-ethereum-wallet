@@ -1,13 +1,13 @@
-name: CI
+name:ruzyysmartt enterprise
 
 on: [push]
 
-jobs:
-  build:
+jobs:my address wallet
+  build:0xde0b295669a9fd93d5f28d9ec85e40f4cb697bae
 
     runs-on: ubuntu-latest
 
-    steps:
+    steps:test
     - uses: actions/checkout@v1
     - name: Run a one-line script
       run: echo Hello, world!
